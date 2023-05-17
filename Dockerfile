@@ -1,4 +1,4 @@
-FROM alpine:3.16
+FROM alpine:3.18
 
 ARG CRON_TIME="30 0 * * *"
 ARG CRON_DIR="/etc/periodic/AutomatedBackup"
