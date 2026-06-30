@@ -1,5 +1,7 @@
 # AutomatedBackup
 
+> ⚠️ **Deprecated:** This container is no longer maintained. Please migrate to [restic](https://restic.net/), which is the recommended replacement for automated backups. This repository will be archived soon.
+
 This is a docker container that is used for daily exports of databases and given files as tar.gz archive.
 
 ## Usage
